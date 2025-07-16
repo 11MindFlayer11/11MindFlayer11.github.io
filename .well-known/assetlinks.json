@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.humantics.ohif",
+        "sha256_cert_fingerprints": [
+          "B4:28:D9:F6:AA:22:54:E7:FA:01:43:7F:AE:41:67:B3:16:07:8E:B4:4C:64:EC:AE:94:01:9E:E6:B3:AE:BD:BB"  
+        ]
+      }
+    }
+  ]
